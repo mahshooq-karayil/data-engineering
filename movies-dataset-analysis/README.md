@@ -1,30 +1,42 @@
 # Movies Dataset Analysis
 
-Analyzed a movies dataset using Jupyter Notebook to extract insights and trends.
+An analysis of a movies dataset using Jupyter Notebook to extract insights and trends.
 
 ## Project Overview
 
-This project focuses on the analysis of a movies dataset using Python and various libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The analysis includes data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization to derive key insights and visualize trends.
+This project involves analyzing a movies dataset utilizing Python, Pandas, NumPy, Matplotlib, and Seaborn. The analysis encompasses data cleaning, preprocessing, exploratory data analysis (EDA), and effective data visualization to derive key insights and trends.
 
 ## Tools Used
 
-- **Python**: Programming language used for data analysis and manipulation.
-- **Pandas**: Used for data cleaning and preprocessing.
-- **NumPy**: Utilized for handling missing values and data manipulation.
-- **Matplotlib**: Employed for creating effective data visualizations.
-- **Seaborn**: Used for enhancing the aesthetics of data visualizations.
+- **Python**: Main programming language used for analysis.
+- **Pandas and NumPy**: Utilized for cleaning, preprocessing, and handling missing values in the dataset.
+- **Matplotlib and Seaborn**: Employed for effective data visualization to present findings.
 
-## Key Features
+## Project Files
 
-- Cleaned and preprocessed the dataset using Pandas and NumPy libraries to ensure data quality, handling missing values, and removing duplicates.
-- Employed exploratory data analysis techniques to derive key insights, analyze trends, and visualize patterns.
-- Presented findings through effective data visualization techniques with the help of Matplotlib and Seaborn.
+- **Data_Cleaning.ipynb**: Jupyter Notebook for cleaning and preprocessing the dataset.
+- **Data_Merging.ipynb**: Jupyter Notebook for merging and handling dataset operations.
+- **EDA_Visualisation.ipynb**: Jupyter Notebook for exploratory data analysis, extracting insights, and visualizing trends.
+
+## Key Steps
+
+1. **Data Cleaning and Preprocessing**:
+   - Cleaned and preprocessed the dataset using Pandas and NumPy to ensure data quality, handle missing values, and remove duplicates.
+
+2. **Exploratory Data Analysis (EDA)**:
+   - Employed EDA techniques to derive key insights, analyze trends, and visualize patterns in the movies dataset.
+
+3. **Data Visualization**:
+   - Presented findings through effective data visualization techniques using Matplotlib and Seaborn.
 
 ## Usage
 
-1. Ensure you have the necessary Python libraries installed (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`).
-2. Open the provided Jupyter Notebook file in this repository.
-3. Follow along with the analysis, code, and visualizations to understand the insights and trends extracted from the movies dataset.
+1. Open the Jupyter Notebooks:
+   - `Data_Cleaning.ipynb`
+   - `Data_Merging.ipynb`
+   - `EDA_Visualisation.ipynb`
+
+2. Follow the notebooks in the mentioned order to understand the analysis steps and findings.
 
 ## Contributing
 
