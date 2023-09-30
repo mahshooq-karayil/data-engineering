@@ -21,7 +21,7 @@ This project focuses on leveraging PySpark, a powerful distributed data processi
 
 ## Project Structure
 
-- **`data/`**: Raw F1 race dataset.
+- **`raw/`**: Raw F1 race dataset.
 - **`includes/`**: Databricks notebooks for configuration.
 - **`ingestion/`**: Databricks notebooks for preprocessing and ingestion steps.
 - **`analysis/`**: Databricks notebooks for analysis.
