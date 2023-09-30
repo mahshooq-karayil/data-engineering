@@ -30,7 +30,7 @@ This project focuses on leveraging PySpark, a powerful distributed data processi
 
 1. Access the Databricks environment and import the project notebooks.
 2. Run the notebooks to preprocess the raw data and perform the analysis.
-3. Explore the visualizations to understand the race results, driver standings, and constructor standings.
+3. Explore the analysis to understand the race results, driver standings, and constructor standings.
 
 ## Contributing
 
