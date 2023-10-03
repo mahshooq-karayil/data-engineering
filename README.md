@@ -10,6 +10,7 @@ This repository contains a collection of data analytics projects covering divers
 - **Project 1**: Adventure Works Cycles Sales Analysis
 - **Project 2**: Movies Dataset Analysis
 - **Project 3**: Credit Card Transactions Analysis
+- **Project 4**: F1 Race Analysis
 
 ## How to Explore
 
